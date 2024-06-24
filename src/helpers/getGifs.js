@@ -1,3 +1,5 @@
+//src/helpers/getGifs.js
+
 import { GIPHY_API_KEY } from '../config';
 
 export const getGifs = async( category ) => {
